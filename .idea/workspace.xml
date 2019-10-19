@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dc51aa-3b8f-42b6-a2a3-a941f184feb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sockets/sockets.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/class/server.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1SJjPI4kY68hrvVKbn7KHEqSdMt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,7 +68,8 @@
       <workItem from="1571288569493" duration="14000" />
       <workItem from="1571288591170" duration="2399000" />
       <workItem from="1571365565358" duration="637000" />
-      <workItem from="1571366309141" duration="1939000" />
+      <workItem from="1571366309141" duration="4038000" />
+      <workItem from="1571495845660" duration="877000" />
     </task>
     <servers />
   </component>
@@ -76,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
