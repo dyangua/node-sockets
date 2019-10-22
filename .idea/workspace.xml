@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dc51aa-3b8f-42b6-a2a3-a941f184feb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sockets/sockets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/user-list.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/usuario.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/class/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sockets/sockets.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sockets/sockets.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
@@ -69,7 +71,9 @@
       <workItem from="1571288591170" duration="2399000" />
       <workItem from="1571365565358" duration="637000" />
       <workItem from="1571366309141" duration="4038000" />
-      <workItem from="1571495845660" duration="877000" />
+      <workItem from="1571495845660" duration="1894000" />
+      <workItem from="1571713339685" duration="881000" />
+      <workItem from="1571714525223" duration="2316000" />
     </task>
     <servers />
   </component>
