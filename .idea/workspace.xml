@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dc51aa-3b8f-42b6-a2a3-a941f184feb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class/user-list.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/usuario.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/class/server.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sockets/sockets.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sockets/sockets.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/routes.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="server" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,7 +73,8 @@
       <workItem from="1571366309141" duration="4038000" />
       <workItem from="1571495845660" duration="1894000" />
       <workItem from="1571713339685" duration="881000" />
-      <workItem from="1571714525223" duration="2316000" />
+      <workItem from="1571714525223" duration="2955000" />
+      <workItem from="1571798197261" duration="1840000" />
     </task>
     <servers />
   </component>
